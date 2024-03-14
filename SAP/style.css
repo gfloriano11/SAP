@@ -3,13 +3,54 @@ body{
     margin: 0
 
 }
-#teste {
 
-    background-color: rgb(253, 255, 117);
+header, section, div, h1, p {
+
+    margin: 0;
+
+}
+
+#barra {
+
+    background-color: rgb(250, 247, 75);
 
 }
 
 
-.corcinza{
-    background-color: gray
+#cinzatopo{
+    border: 2%;
+    padding-left: 1%;
+    background-color: rgb(235, 230, 230)
 }
+
+#cinzasec {
+
+    
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 1%;
+    background-color: rgb(235, 230, 230)
+
+}
+
+#cinzabaixo{
+    display: flex;
+    width: 4%;
+    height: auto;
+    border: 0.5px solid rgb(43, 40, 40);
+}
+
+#save {
+
+    max-width: 40%;
+    height: auto;
+
+}
+
+#texto {
+
+    text-align: right;
+    padding-top: 8%;
+
+}
+
