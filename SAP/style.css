@@ -18,7 +18,7 @@ header, section, div, h1, p {
 
 
 #cinzatopo{
-    border: 2%;
+
     padding-left: 1%;
     background-color: rgb(235, 230, 230)
 }
@@ -26,31 +26,85 @@ header, section, div, h1, p {
 #cinzasec {
 
     display: flex;
-    padding-top: 0.3%;
-    padding-bottom: 0.3%;
-    padding-left: 1%;
-    background-color: rgb(235, 230, 230)
+    background-color: rgb(235, 230, 230);
+    height: 5%;
+    
 
 }
 
 .cinzabaixo{
     display: flex;
     width: 4%;
-    height: auto;
-    border: 0.5px solid rgb(43, 40, 40);
+    margin: 0 1% 0.2% 0.5%;
+    
 }
 
-.imagem {
+.icon {
 
-    max-width: 40%;
+    
+    padding-top: 2%;
+    max-width: 35%;
     height: auto;
 
 }
 
-#texto {
+.botao {
 
-    text-align: right;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    padding-left: 10%;    
+    margin-top: 10%;
+    padding-bottom:6%;
+    height: 70%;
+    
+
+}
+
+#botaosave {
+
+    align-items: center;
+    display: flex;
+    width: 80%;
+    padding-left: 10%;    
     padding-top: 8%;
+    padding-right: 5%;
 
 }
+
+.divsavedraft{
+    display: flex;
+    width: 7%;
+    padding-top: 0.2%;
+    
+}
+
+.iconsavedraft {
+
+    padding-top: 7.5%;
+    max-width: 25%;
+    height: 50%;
+
+}
+
+.barrinha {
+
+   margin-top: 10%;
+   margin-left: 9%;
+   font-size: 25px;
+
+}
+
+#botaoload {
+
+    align-items: center;
+    display: flex;
+    width: 100%;
+    padding-left: 10%;    
+    margin-top: 20%;
+    padding-right: 5%;
+
+
+}
+
 
