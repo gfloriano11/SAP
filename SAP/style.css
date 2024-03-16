@@ -1,4 +1,4 @@
-body{
+#antigo{
     background-color: snow;
     margin: 0
 
@@ -107,4 +107,91 @@ header, section, div, h1, p {
 
 }
 
+#texto{
+    color: blue;
+}
+
+#cordiv{
+    display: flex;
+    background-color: #ADD8E6;
+    max-width: 800px;
+    max-height: 400px;
+    border-radius: 10px/20px;
+    padding: 20px 0 0 0;
+}
+
+#robo{
+    height: 300px;
+    width:  auto ;
+}
+
+#ajuste{
+    padding: 20 10 10 0;
+}
+
+.azulzinho{
+    border: solid 1px blue;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    transform: scale(1.2)
+}
+
+.tamanho{
+    padding: 10 10 10 80
+}
+
+#tabela{
+    background-color: #ADD8E6;
+    max-width: 400px;
+    max-height: 200px;
+    border-radius: 10px/20px;
+    padding: 20px 0 0 0;
+}
+
+.ladinho{
+    display: flex;
+}
+
+.lado{
+    padding: 0 0 0 40
+}
+
+.tabelinha{
+    display: flex;
+    background-color: white;
+    color:black;
+    border-width: 10px;
+    border-style: solid; 
+    border-color: #ADD8E6;
+}
+
+.verdinho{
+    border: solid 1px green;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    transform: scale(1.2)
+}
+
+#amarelinho{
+    border: solid 1px yellow;
+    border-radius: 20px;
+    background-color: yellow;
+    color: white;
+    transform: scale(1.2) 
+}
+
+#vermelhinho{
+    border: solid 1px red;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    transform: scale(1.2)
+}
+
+.imagem{
+    width: 100px;
+    height: 100px;
+}
 
