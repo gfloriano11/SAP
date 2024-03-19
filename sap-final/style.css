@@ -1,0 +1,1483 @@
+#corpo{
+    background-color: snow;
+    margin: 0
+
+}
+
+
+#cabeca, section, div, h1, p {
+
+    margin: 0;
+
+}
+
+#barra {
+
+    background-color: rgb(250, 247, 75);
+
+}
+
+
+#cinzatopo{
+
+    padding-left: 1%;
+    background-color: rgb(235, 230, 230);
+}
+
+#cinzasec {
+
+    display: flex;
+    background-color: rgb(235, 230, 230);
+    height: 5%;
+    
+
+}
+
+#cinzabaixo{
+    display: flex;
+    width: 4.2%;
+    margin: 0 0.5% 0.2% 0.5%;
+    
+}
+
+#icon {
+
+    max-width: 30%;
+    height: auto;
+
+}
+
+#botao {
+
+    align-items: center;
+    display: flex;
+    width: 100%;
+    padding-left: 10%;    
+    margin-top: 10%;
+    padding-bottom:6%;
+    height: 70%;
+    
+
+}
+
+#botaoxis {
+
+    align-items: center;
+    display: flex;   
+    margin-top: 8%;
+    padding-bottom:6%;
+    height: 70%;
+    width: 100%;
+    padding-left: 10%;
+    
+
+}
+
+#iconxis {
+    max-width: 26%;
+    height: auto;
+
+}
+
+#divxis {
+
+    display: flex;
+    width: 5%;
+    margin: 0 0.6% 0.2% 0.5%;
+}
+
+#botaosavedraft {
+
+    align-items: center;
+    display: flex;
+    margin-top: 6%;
+    padding-top: 5%;
+    padding-bottom: 6%;
+    height: 70%;
+    width: 100%;
+    padding-left: 10%;
+
+}
+
+
+#divsavedraft{
+    padding-left: 0.5%;
+    display: flex;
+    width: 7%;
+    margin: 0 0% 0.2% 0.2%;
+    
+}
+
+#iconsavedraft {
+
+    max-width: 20%;
+    height: auto;
+
+}
+
+.barrinha {
+
+    padding-top: 0.14%;
+    color: gray;
+    font-size: 25px;
+
+}
+
+
+#divcaneta{
+
+    display: flex;
+    width: 4%;
+    margin: 0 0.5% 0.2% 0;
+
+}
+
+#botaocaneta {
+
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 68%;
+    margin-top: 11%;
+    padding-bottom: 6%;
+    padding-left: 10%;
+
+}
+
+#iconcaneta {
+    padding-right: 12%;
+    max-width: 30%;
+    height: auto;
+
+}
+
+#botaoload {
+
+    align-items: center;
+    display: flex;
+    margin-top: 8%;
+    margin-bottom: 1%;
+    padding-top: 5%;
+    padding-bottom: 6%;
+    height: 70%;
+    width: 100%;
+    padding-left: 10%;
+
+}
+
+#divload{
+    padding-left: 0.5%;
+    display: flex;
+    width: 5.5%;
+    margin: 0 0.6% 0.2% 0.2%;
+    
+}
+
+#botaoretweet {
+
+    align-items: center;
+    display: flex;
+    margin-top: 16%;
+    margin-bottom: 1%;
+    padding-top: 5%;
+    padding-bottom: 6%;
+    height: 70%;
+    width: 50%;
+    padding-left: 10%;
+
+}
+
+#divretweet{
+    padding-left: 0.5%;
+    display: flex;
+    width: 3%;
+    margin: 0 0 0.2% 0.2%;
+    
+}
+
+#iconretweet {
+    max-width: 100%;
+    height: auto;
+
+}
+
+.botaoflecha {
+
+    align-items: center;
+    display: flex;
+    margin-top: 8%;
+    margin-bottom: 4%;
+    padding-top: 5%;
+    padding-bottom: 6%;
+    height: auto;
+    width: 100%;
+
+}
+
+.divflecha{
+    display: flex;
+    width: 5%;
+    margin: 0 0.6% 0.2% 0;
+    
+}
+
+.iconflecha {
+    max-width: 30%;
+    height: auto;
+
+}
+
+#botaocheck {
+
+    align-items: center;
+    display: flex;
+    margin-top: 12%;
+    margin-bottom: 6%;
+    padding-top: 5%;
+    padding-bottom: 6%;
+    height: auto;
+    width: 100%;
+    margin-left: 15%;
+
+}
+
+#divcheck{
+    display: flex;
+    width: 3.5%;
+    margin: 0 1.3% 0.2% 0;
+    
+}
+
+.botaoquadrado {
+
+    align-items: center;
+    display: flex;
+    margin-top: 20%;
+    margin-bottom: 8%;
+    height: auto;
+    width: 100%;
+
+}
+
+.divquadrado{
+    display: flex;
+    width: 2%;
+    margin: 0 0.6% 0.2% 0.8%;
+    
+}
+
+.iconquadrado {
+    max-width: 100%;
+    height: auto;
+
+}
+
+#botaoadditional {
+
+    align-items: center;
+    display: flex;
+    margin-top: 1%;
+    margin-bottom: 6%;
+    padding-top: 5%;
+    padding-bottom: 6%;
+    height: auto;
+    width: 100%;
+    margin-left: 10%;
+
+}
+
+#divaddiotional{
+    display: flex;
+    width: 3.5%;
+    margin: 0 1.3% 0.2% 0;
+    
+}
+
+#secnavigation {
+
+    display: flex;
+    background-color: rgb(247, 243, 243);
+    width: 20%;
+    height: 8.8%;
+    flex-direction: column;
+
+}
+
+#divnavigation {
+    display: flex;
+    width: 37%;
+    height: 100%;
+
+}
+
+#navigation {
+
+    margin-left: 10%;
+}
+
+#repositories {
+
+    margin-left: 25%;
+    margin-top: 24%;
+    font-size: 15px;
+
+}
+
+#pasta {
+
+    margin-left: 40%;
+    margin-top: 22%;
+    max-width: 50%;
+    height: 30%;
+
+}
+
+#azul {
+    background-color: rgb(0, 157, 255);
+    position:absolute;
+    height: 0.5%;
+    width: 20%;
+    margin-top: 4%;
+    margin-left: 0;
+}
+
+#texto {
+
+    color: rgb(244, 239, 239)
+
+}
+
+#triangulo-para-cima {
+    position: absolute;
+    left: 4.5%;
+    top: 17%;
+    width: 0; 
+    height: 0; 
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid rgb(0, 157, 255);
+}
+
+#secnew { 
+    display: flex;   
+    background-color: rgb(235, 230, 230);
+    position: absolute;
+    width: 20%;
+}
+
+#divnew {  
+    display: flex;
+    width: 23%;
+}
+
+#botaonew {
+
+    margin-top: 8%;
+    margin-left: 12%;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 70%;
+
+
+}
+
+#iconnew {
+
+    padding-right: 5%;
+    padding-bottom: 2%;
+    max-width:30%;
+    height: auto;
+
+}
+
+#divtrash {  
+    display: flex;
+    width: 12%;
+}
+
+#botaotrash {
+
+    margin-top: 15%;
+    margin-left: 12%;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 70%;
+
+
+}
+
+#icontrash {
+
+    padding-right: 5%;
+    padding-bottom: 2%;
+    max-width:100%;
+    height: auto;
+
+}
+
+#divcopy {  
+    display: flex;
+    width: 15%;
+    margin-right: 2%;
+}
+
+#botaocopy {
+
+    margin-top: 11%;
+    margin-left: 12%;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 70%;
+
+
+}
+
+#iconcopy {
+
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    max-width:85%;
+    height: auto;
+
+}
+
+#barradois {
+
+    color: gray;
+    font-size: 25px;
+
+}
+
+#divup {  
+    display: flex;
+    width: 12%;
+
+}
+
+#botaoup {
+
+    margin-top: 15%;
+    margin-left: 12%;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 70%;
+
+
+}
+
+#divdown {  
+    display: flex;
+    width: 16%;
+    margin-right: 2%;
+}
+
+#botaodown {
+
+    margin-top: 11%;
+    margin-left: 12%;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 70%;
+
+
+}
+
+#divuser {  
+    display: flex;
+    width: 15%;
+    margin-right: 2%;
+}
+
+#botaouser {
+
+    margin-top: 11%;
+    margin-left: 12%;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 70%;
+
+
+}
+
+#iconuser {
+
+    padding-left: 4%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    max-width:85%;
+    height: auto;
+
+}
+
+#tableatributos {
+
+    background-color: rgb(247, 243, 243);
+    margin-top: 2.1%;
+    width: 20%;
+    height: 50%;
+    display: flex;
+    font-size: 15px;
+}
+
+#teste, td{
+
+    font-size: 14px;    
+    width:100%;
+    border: 1px solid gray;
+    border-collapse: collapse;
+
+}
+
+.pagetype {
+
+    text-align: center;
+
+}
+
+.nomes {
+
+    padding-left: 2%;
+    text-align: left;
+    height: 1%;
+
+}
+
+th{
+    background-color: rgb(235, 230, 230);
+    height: 8%;
+    border: 1px solid gray;
+    border-collapse: collapse;
+
+}
+
+#vazio {
+
+    background-color: rgb(235, 230, 230);
+    width: 30%;
+    border: 1px solid gray;
+    border-collapse: collapse;
+
+}
+
+#vazioazul {
+
+    background-color: rgb(15, 79, 255);
+    width: 10%;
+
+}
+
+.maincentro {
+
+    background-color: rgba(63, 157, 250, 0.345);
+    text-align: center;
+}
+
+.main {
+
+    background-color: rgba(63, 157, 250, 0.345);
+}
+
+#secoverview {
+    position: absolute;
+    left: 20%;
+    width: 80%;
+    height: 100%;
+
+}
+
+#divoverview { 
+    background-color: rgb(247, 243, 243);
+    display: flex;
+    float: right;
+    width: 100%;
+    
+}
+
+#textoverview {
+
+    padding-left: 5%;
+    padding-top: 1.2%;
+
+}
+
+#iconoverview {
+
+    padding-top: 1.2%;
+    padding-left: 2%;
+    width: 3%;
+    height: 50%;
+
+}
+
+.textinoverview {
+
+    padding-left: 3%;
+    padding-top: 1.8%;
+
+}
+
+#pastaoverview {
+
+    margin-left: 45%;
+    margin-top: 2%;
+    max-width: 2%;
+    height: 2%;
+
+}
+
+#azuloverview {
+    background-color: rgb(0, 157, 255);
+    position:absolute;
+    height: 1%;
+    width: 100%;
+    margin-top: 4.2%;
+    margin-left: 0;
+}
+
+#triangulo-para-cima-overview{
+
+    position: absolute;
+    left: 18%;
+    top: 6%;
+    width: 0; 
+    height: 0; 
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid rgb(0, 157, 255);
+
+}
+
+#divpagemaster {
+    
+    display: flex;
+    padding-top: 0.8%;
+    width: 100%;
+    height: 4%;
+    background-color: rgb(247, 243, 243);
+
+}
+
+#botaopagemaster {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5%;
+    margin-left: 1.5%;
+    width: 12%;
+    height: 80%;
+
+}
+
+#iconpagemaster {
+    display: flex;
+    padding-right: 5%;
+    margin-bottom: 0.5%;
+    margin-left: 1.5%;
+    max-width: 100%;
+    height: 80%;
+
+}
+
+#botaosection {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5%;
+    margin-left: 1.5%;
+    width: 6.5%;
+    height: 80%;
+    margin-bottom: 0.5%;
+
+}
+
+#iconsection {
+    display: flex;
+    padding-right: 5%;
+    margin-bottom: 0.5%;
+    margin-left: 1.5%;
+    max-width: 100%;
+    height: 80%;
+
+}
+
+#botaouibb {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5%;
+    margin-left: 1.5%;
+    width: 5.5%;
+    height: 80%;
+    margin-bottom: 0.5%;
+
+}
+
+#iconuibb {
+    display: flex;
+    padding-right: 5%;
+    margin-bottom: 0.5%;
+    margin-left: 1.5%;
+    max-width: 100%;
+    height: 80%;
+
+}
+
+#botaotrash-overview {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5%;
+    margin-left: 1%;
+    width: 2.5%;
+    height: 80%;
+    margin-bottom: 0.5%;
+
+}
+
+#icontrash-overview {
+    display: flex;
+    padding-right: 5%;
+    margin-bottom: 0.5%;
+    margin-left: 1.5%;
+    max-width: 100%;
+    height: 100%;
+
+}
+
+#barratres {
+
+    color: gray;
+    font-size: 20px;
+    padding-left: 1%;
+    padding-right: 1%;
+    
+
+}
+
+#botaoup-overview {
+
+    
+    align-items: center;
+    display: flex;
+    width: 2.5%;
+    height: 80%;
+
+
+}
+
+#botaodown-overview {
+
+    margin-left: 1%;
+    align-items: center;
+    display: flex;
+    width: 4%;
+    height: 80%;
+
+
+}
+
+#botaoconfigure {
+
+    margin-left: 45%;
+    align-items: center;
+    display: flex;
+    width: 9%;
+    height: 80%;
+
+}
+
+#botaouser-overview {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5%;
+    margin-left: 1%;
+    width: 2.5%;
+    height: 80%;
+    margin-bottom: 0.5%;
+
+}
+
+#iconuser-overview {
+    display: flex;
+    padding-right: 5%;
+    margin-bottom: 0.5%;
+    margin-left: 1.5%;
+    max-width: 100%;
+    height: 100%;
+
+}
+
+.table-quadrado{
+
+    width: 3%;
+    background-color: rgb(235, 230, 230);
+    height: 2%;
+
+}
+.tamanho-table {
+
+    background-color: rgb(235, 230, 230);
+    width: 24%;
+    text-align: left;
+    padding-left: 1%;
+    height: 2%;
+
+}
+
+#icontresquadrados {
+
+    width: 50%;
+    height: 50%;
+
+}
+
+#table-overview{
+
+    height: 35%;
+    font-size: 14px;    
+    width:100%;
+    border: 1px solid gray;
+    border-collapse: collapse;
+
+}
+
+.table-azul{
+
+    background-color: rgba(157, 206, 255, 0.345);
+    width: 24%;
+    height: 2%;
+}
+
+#overview-azul{
+
+    background-color: rgb(15, 79, 255);
+    width: 3%;
+    height: 2%;
+}
+
+.overview-azul-claro{
+
+    background-color: rgba(63, 157, 250, 0.345);
+    width: 24%;
+    height: 2%;
+}
+
+.tamanho {
+    
+    width: 24%;
+    height: 2%;
+
+}
+
+#tabela-na-tabela{
+
+    width: 7%;
+    height: 50%;
+    margin-bottom: 5%;
+
+}
+
+#tabela-na-tabela {
+
+    width: 50%;
+    height: 50%;
+
+}
+
+#attributes {
+
+    display: flex;
+    background-color: rgb(247, 243, 243);
+    width: 100%;
+    height: 8%;
+    flex-direction: column;
+
+}
+
+#azul-attributes {
+    background-color: rgb(0, 157, 255);
+    position:absolute;
+    height: 0.5%;
+    width: 100%;
+    margin-left: 0;
+}
+
+#texto-attributes {
+
+    padding-top: 1.2%;
+    
+}
+
+#botao-flags {
+
+    width: 6%;
+    margin-left: 94%;
+
+}
+
+#tabela-attributes {
+
+    display: flex;
+    margin-top: 0.5%;
+    background-color: rgb(247, 243, 243);
+
+    
+}
+
+#tabela-attributes-config {
+
+    display: flex;
+    margin-top: 0.5%;
+    background-color: rgb(247, 243, 243);
+
+    
+}
+
+#tabela-attributes-instance {
+
+    display: flex;
+    margin-top: 0.5%;
+    background-color: rgb(247, 243, 243);
+
+    
+}
+
+
+
+#text-attributes {
+
+    margin-left: 10%;
+    background-color: rgb(247, 243, 243);
+
+    
+}
+
+#botao-attributes {
+
+    max-width: 28%;
+    margin-left: 2%;
+
+    
+}
+
+#icon-botao {
+
+    padding-left: 65%;
+    max-width: 5%;
+    height: 80%;
+
+}
+
+#botao-attributes-title {
+
+    max-width: 100%;
+    margin-left: 2%;
+
+    
+}
+
+#botao-attributes-config {
+
+    max-width: 28%;
+    margin-left: 4.5%;
+
+    
+}
+
+#botao-attributes-image {
+
+    max-width: 100%;
+    padding-left: 22.8%;
+    margin-left: 1.5%;
+
+    
+}
+
+#icon-botao-config {
+
+    padding-left: 40%;
+    max-width: 5%;
+    height: 80%;
+
+}
+
+
+#botao-attributes-instance {
+
+    width: 28%;
+    max-width: 100%;
+    margin-left: 4%;
+
+    
+}
+
+#botao-attributes-column {
+
+    width: 28%;
+    max-width: 100%;
+    margin-left: 5.5%;
+    text-align: right;
+
+    
+}
+
+#botao-attributes-number {
+
+    width: 28%;
+    max-width: 100%;
+    margin-left: 3.2%;
+
+    
+}
+
+#botao-attributes-index {
+
+    width: 28%;
+    max-width: 100%;
+    margin-left: 2.2%;
+
+    
+}
+
+#botao-attributes-default {
+
+    width: 28%;
+    max-width: 100%;
+    margin-left: 5.8%;
+
+    
+}
+
+#botao-attributes-element {
+
+    width: 28%;
+    max-width: 100%;
+    margin-left: 2.2%;
+
+    
+}
+
+#botao-attributes-padding {
+
+    width: 23.5%;
+    max-width: 100%;
+    margin-left: 0.6%;
+
+    
+}
+
+#botao-attributes-style {
+
+    width: 23.5%;
+    max-width: 100%;
+    margin-left: 2%;
+
+    
+}
+
+#botao-attributes-text {
+
+    width: 23.5%;
+    max-width: 100%;
+    margin-left: 2%;
+
+    
+}
+#botao-attributes-document {
+
+    width: 23.5%;
+    max-width: 100%;
+    margin-left: 2%;
+
+    
+}
+
+#botao-attributes-edit {
+
+    width: 23.5%;
+    max-width: 100%;
+    margin-left: 2%;
+
+    
+}
+
+#botao-attributes-page {
+
+    width: 23.5%;
+    max-width: 100%;
+    margin-left: 1.5%;
+
+    
+}
+
+#text-attributes-page {
+
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: rgb(247, 243, 243);
+
+    
+}
+
+#text-attributes-edit {
+
+    margin-left: 2.8%;
+    margin-right: 2%;
+    background-color: rgb(247, 243, 243);
+
+    
+}
+
+#text-attributes-document {
+
+    margin-left: 0.5%;
+    margin-right: 2%;
+    background-color: rgb(247, 243, 243);
+
+    
+}
+
+#text-attributes-text {
+
+    margin-left: 3%;
+    margin-right: 2%;
+    background-color: rgb(247, 243, 243);
+
+    
+}
+
+#text-attributes-style {
+
+    margin-left: 8%;
+    margin-right: 2%;
+    background-color: rgb(247, 243, 243);
+
+    
+}
+
+#text-attributes-padding {
+    margin-left: 8%;
+    margin-right: 2%;
+    background-color: rgb(247, 243, 243);
+
+    
+}
+
+#text-attributes-image {
+    margin-left: 8%;
+    margin-right: 2%;
+    background-color: rgb(247, 243, 243);
+
+    
+}
+
+#text-attributes-title {
+    margin-left: 8%;
+    margin-right: 2%;
+    background-color: rgb(247, 243, 243);
+
+    
+}
+
+#texto{
+    color: blue;
+}
+
+#cordiv{
+    display: flex;
+    background-color: #ADD8E6;
+    max-width: 65%;
+    max-height: 65%;
+    border-radius: 10px/20px;
+    padding: 20px 0 0 0;
+}
+
+#robo{
+    height: 300px;
+    width:  auto ;
+}
+
+#ajuste{
+    padding: 20% 10% 10% 0%;
+}
+
+.azulzinho{
+    border: solid 1px blue;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    transform: scale(1.2)
+}
+
+.tamanhe{
+    padding: 10 10 10 80
+}
+
+.tabela{
+    background-color: #ADD8E6;
+    max-width: 1500;
+    max-height: auto;
+    border-radius: 10px/20px;
+    padding: 20px 0 0 0;
+    justify-content: space-around;
+}
+
+
+.ladinho{
+    display: flex;
+}
+
+.lado{
+    padding: 0 0 0 40
+}
+
+.tabelinha{
+    display: flex;
+    background-color: white;
+    color:black;
+    border-width: 10px;
+    border-style: solid; 
+    border-color: #ADD8E6;
+    padding: 0 0 0 10;
+    justify-content: space-around;
+}
+
+
+.verdinho{
+    border: solid 1px green;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    transform: scale(1.2)
+}
+
+#amarelinho{
+    border: solid 1px yellow;
+    border-radius: 20px;
+    background-color: yellow;
+    color: white;
+    transform: scale(1.2) 
+}
+
+#vermelhinho{
+    border: solid 1px red;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    transform: scale(1.2)
+}
+
+.imagem{
+    width: 100px;
+    height: 100px;
+    padding: 20 20 50 20;
+}
+
+.grande{
+    background-color: #ADD8E6;
+    max-width: 65%;
+    max-height: 90%;
+    border-radius: 10px/20px;
+    padding: 20px 0 0 0;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+
+#arrasta{
+    float: right;
+    max-width: 1500;
+    max-height: 1500;
+    position: relative;
+    transform: translate(-40%, -121%);
+}
+
+#arrastar{
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+    transform: translate( -60%, -120%);
+    justify-content: space-around;
+}
+.funcionarios{
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+    position: relative
+}
+
+.grafico{
+    display: flex;
+    background-color: white;
+    color:black;
+    border-width: 10px;
+    border-style: solid; 
+    border-color: #ADD8E6;
+    padding: 9px 0 9px 0;
+}
+
+.primeiro{
+    padding: 0 0 0 100;
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+    position: relative;
+}
+
+.correto{
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+    position: relative;
+}
+
+.barra{
+    width: 100px;
+    height: 20px;
+}
+
+.amareloum{
+  height: 30px;
+  line-height: 30px;  
+  width: 30px;  
+  font-size: 1em;
+  font-weight: bold;
+  border-radius: 40px;
+  background-color: #ebee2c;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+
+.azulum{
+  height: 30px;
+  line-height: 30px;  
+  width: 30px;  
+  font-size: 1em;
+  font-weight: bold;
+  border: 2px solid #0a4b9b;
+  border-radius: 40px;
+  background-color: white;
+  color: rgb(28, 25, 228);
+  text-align: center;
+  cursor: pointer;  
+}
+
+#jogar{
+    float: right;
+    max-width: 1500;
+    max-height: auto;
+    position: relative;
+    transform: translate( -40%, -130%);
+}
+
+.mais{
+    height: 30px;
+    line-height: 30px;  
+    width: 30px;  
+    font-size: 1em;
+    font-weight: bold;
+    border-radius: 50%;
+    background-color: white;
+    color: rgb(28, 25, 228);
+    text-align: center;
+    cursor: pointer;  
+}
+
+#detalheoposto{
+    width: 20px ;
+    height: 20px ;
+    transform: translate( -20%, +300%);
+}
+
+#detalhe{
+    width: 20px ;
+    height: 20px ;
+    transform: translate( -20%, +300%);
+}
+
+.mine{
+    background-color: white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    position: relative;
+    transform: translate( +30%, +20%);
+}
+
+.afastar{
+    padding: 0% 0% 0% 65%;
+}
+
+.palavrinha{
+    color: black;
+    background-color: white;
+    justify-content: space-around;
+    width: 30%;
+    height: 5%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    border-radius: 3%;
+}
+
+#titulo{
+    padding: 10% 0% 0% 0%;
+}
+
+#branca{
+    padding: 0 0 0 160;
+}
+
+.doido{
+    padding: 0 0 0 180;
+}
+
+#base{
+    padding: 0 0 0 200;
+}
+
+.home{
+    height: 10px;
+    line-height: 10px;  
+    width: 10px;  
+    font-size: 1em;
+    font-weight: bold;
+    border: 2px solid #0a4b9b;
+    border-radius: 20px;
+    background-color: #0a4b9b;
+    color: rgb(28, 25, 228);
+    text-align: center;
+    cursor: pointer;  
+  }
+
+.homedois{
+    height: 10px;
+    line-height: 10px;  
+    width: 10px;  
+    font-size: 1em;
+    font-weight: bold;
+    border: 2px solid #a2a4a7;
+    border-radius: 20px;
+    background-color: #a2a4a7;
+    text-align: center;
+    cursor: pointer;  
+  }
+
+  #ladinhe{
+    display: flex;
+    padding-left: 40%;
+  }
+
+  #centro{
+    display: flex;
+    padding-left: 50%;
+  }
+
+  .fundo{
+    padding: 0 0 0 70;
+  }
